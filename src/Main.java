@@ -56,7 +56,7 @@ public class Main {
         System.out.println("l2 >= i1 " + (l2 >= i1));
         System.out.println("y1 != h1 " + (y1 != h1));*/
 
-        //Exercício 2 - Operadores Lógicos
+        /*//Exercício 2 - Operadores Lógicos
 
         boolean b1 = true;
         boolean b2 = false;
@@ -96,9 +96,6 @@ public class Main {
         System.out.println((salarioBaixo) && (muitosDependentes));
 
         boolean recebeAuxilio = (salarioBaixo) && (muitosDependentes);
-        System.out.println("Recebe auxílio " + recebeAuxilio);
-
-
-
+        System.out.println("Recebe auxílio " + recebeAuxilio);*/
     }
 }
